@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.jcsa {
+  justify-content: space-around;
+}
+
+.center {
+  height: 100vh;
+  padding-top: 110px;
+  font-size: 2rem;
+}
+
+.pt-100 {
+  padding-top: 100px !important;
+}
